@@ -57,21 +57,6 @@ education:
   #   summary: |
   #     GPA: 3.8/4.0
 
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - area: BSc Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.4/4.0
-
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -149,5 +134,5 @@ awards:
     awarder: 第19回YANSシンポジウム
     icon: ''
     summary: |2-
-      層同士の接続可能性と層が影響を与える部分空間同士の重なり度合いの関係性．小林春斗，原知正，鴨田豪，横井祥．
+      層同士の接続可能性と層が影響を与える部分空間同士の重なり度合いの関係性　　小林春斗，原知正，鴨田豪，横井祥．
 ---
