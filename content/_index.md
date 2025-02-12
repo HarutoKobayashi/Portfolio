@@ -45,10 +45,10 @@ sections:
   #   content:
   #     title: Languages
   #     username: admin
-  - block: publication
+  - block: awards
     content:
       title: Publication
-      username: admin
+      username: publication
     #   title: Publications
     #   subtitle: ''
     #   text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
