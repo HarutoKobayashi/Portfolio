@@ -45,7 +45,7 @@ sections:
   #   content:
   #     title: Languages
   #     username: admin
-  - block: publications
+  - block: collections
     content:
       title: Publications
       subtitle: ''
