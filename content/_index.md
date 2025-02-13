@@ -47,7 +47,7 @@ sections:
   #     username: admin
   - block: awards
     content:
-      title: Publication
+      title: Publications
       username: publication
     #   title: Publications
     #   subtitle: ''
