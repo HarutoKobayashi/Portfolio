@@ -45,22 +45,11 @@ sections:
   #   content:
   #     title: Languages
   #     username: admin
+  # 少なくともこのテンプレートでは、 blockとして自由な名称を指定できない
+  # username は自由に指定できる
+  # このことから、新たに publication dir を作成し、Publication に関わる情報は publication/_index.md 内の awards に記載することにした
   - block: awards
     content:
       title: Publications
       username: publication
-    #   title: Publications
-    #   subtitle: ''
-    #   text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-    #   # Display content from the `content/post/` folder
-    #   filters:
-    #     folders:
-    #       - publication
-    # design:
-    #   # Choose how many columns the section has. Valid values: '1' or '2'.
-    #   columns: '1'
-    #   # Choose your content listing view - here we use the `showcase` view
-    #   view: citation
-    #   # For the Showcase view, do you want to flip alternate rows?
-    #   # flip_alt_rows: true
 ---
